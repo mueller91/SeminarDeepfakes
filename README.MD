@@ -30,4 +30,5 @@ Sie müssen eine Hausarbeit anfertigen:
 - Senden sie die Hausarbeit bis zum DATUM per Email (als PDF) an mich.
 
 ### Kontakt
-- [Kontaktdaten](https://www.aisec.fraunhofer.de/de/spotlights/Deepfakes.html)
+- ![Contact](mail.gif)
+- [Website](https://www.aisec.fraunhofer.de/de/spotlights/Deepfakes.html)
