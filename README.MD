@@ -23,6 +23,10 @@ Willkommen! Anbei die Materialien:
 
 ### Hausarbeit
 Sie müssen eine Hausarbeit anfertigen:
-- 2 Seiten minimal (reiner Text), 4 Seiten maximal inkl. Bilder und Text
+- 2 Seiten minimal (reiner Text), 4 Seiten maximal inkl. Bilder und Text. Schriftgröße 12pt.
 - Thema: "Wie funktioniert Audio Deepfake Erkennung? Beschreiben Sie den Vorgang in eigenen Worten: Welche Datensätze nutzt man, welche Modelle, worauf muss man achten, was sind häufige Fallstricke? Orientieren Sie sich an den im Seminar besprochenen inhalten."
 - ChatGPT, Gemini etc.: Sie können KI nutzen um Ihr Verständnis der Thematik zu vertiefen (Achtung: Halluzinationen!). Zum Verfassen des Textes bitte _keine_ KI verwenden, auch nicht zur Rechtschreibprüfung (Punktabzug). Es soll _ihre_ Leistung sein, nicht die der KI.
+- Senden sie die Hausarbeit bis zum DATUM per Email (als PDF) an mich.
+
+### Kontakt
+- [Kontaktdaten](https://www.aisec.fraunhofer.de/de/spotlights/Deepfakes.html)
