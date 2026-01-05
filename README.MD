@@ -5,6 +5,7 @@ Willkommen! Anbei die Materialien:
 ### Slides: 
 - TODO1 (once done)
 - TODO2 ...
+- [Introduction to Gradient Descent](introduction_gradient_descent.pdf)
 
 ### Python Notebooks:
 - [Deepfake Detection with Python and W2V2](https://www.kaggle.com/code/muellermnicolas/audio-deepfake-detection-with-w2v2-and-mlaad-tiny)
