@@ -16,7 +16,7 @@ Willkommen! Anbei die Materialien:
 - [Intro to Python](https://www.kaggle.com/code/colinmorris/hello-python)
 - [Intro to Pytorch](https://www.kaggle.com/code/muellermnicolas/pytorch-basics/)
 
-### Commercial and open-source Toosl:
+### Commercial and open-source Toos:
 - [Resemble.ai](https://www.resemble.ai/)
 - [Fraunhofer](https://www.aisec.fraunhofer.de/de/spotlights/Deepfakes.html)
 - [Deepfake Total](https://deepfake-total.com/)
