@@ -14,7 +14,7 @@ Willkommen! Anbei die Materialien:
   - [Kokoro](https://www.kaggle.com/code/muellermnicolas/kokoro)
   - [Parler TTS](https://www.kaggle.com/code/muellermnicolas/parler-tts-mini)
 - [Intro to Python](https://www.kaggle.com/code/colinmorris/hello-python)
-- [Intro to Pytorch](TODO)
+- [Intro to Pytorch](https://www.kaggle.com/code/muellermnicolas/pytorch-basics/)
 
 ### Commercial and open-source Toosl:
 - [Resemble.ai](https://www.resemble.ai/)
