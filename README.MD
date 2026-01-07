@@ -24,7 +24,7 @@ Willkommen! Anbei die Materialien:
 
 ### Hausarbeit
 Sie müssen eine Hausarbeit anfertigen:
-- 3 Seiten maximal inkl. Bilder und Text.
+- 4-6 Seiten
 - Thema: "Wie funktioniert KI-basierte Audio Deepfake Erkennung? Beschreiben Sie zunächste die einzelnen Komponenten: Zielsetzung, Daten, KI-Modell. Dann erklären Sie, wie das Training funktioniert und wie die KI lernt (Sie müssen das nicht mathematisch definieren).
 Dann disktutieren Sie: Worauf muss man als Ingenieur achten, was sind häufige Fallstricke? Wann wird das Ergebnis gut und wann nicht? Orientieren Sie sich an den im Seminar besprochenen inhalten."
 - ChatGPT, Gemini etc.: Sie können KI nutzen um Ihr Verständnis der Thematik zu vertiefen (Achtung: Halluzinationen!). Zum Verfassen des Textes bitte _keine_ KI verwenden (Punktabzug!), auch nicht zur Rechtschreibprüfung. Es soll _ihre_ Leistung sein, nicht die der KI.
