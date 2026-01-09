@@ -15,6 +15,7 @@ Willkommen! Anbei die Materialien:
   - [Parler TTS](https://www.kaggle.com/code/muellermnicolas/parler-tts-mini)
 - [Intro to Python](https://www.kaggle.com/code/colinmorris/hello-python)
 - [Intro to Pytorch](https://www.kaggle.com/code/muellermnicolas/pytorch-basics/)
+- [CodinGame Puzzles](https://www.codingame.com/training/easy)
 
 ### Commercial and open-source Toos:
 - [Resemble.ai](https://www.resemble.ai/)
