@@ -14,6 +14,7 @@ Willkommen! Anbei die Materialien:
   - [Kokoro](https://www.kaggle.com/code/muellermnicolas/kokoro)
   - [Parler TTS](https://www.kaggle.com/code/muellermnicolas/parler-tts-mini)
 - [Intro to Python](https://www.kaggle.com/code/colinmorris/hello-python)
+- [Intro to Python, Version 2](https://www.kaggle.com/code/muellermnicolas/intro-to-python)
 - [Intro to Pytorch](https://www.kaggle.com/code/muellermnicolas/pytorch-basics/)
 - [CodinGame Puzzles](https://www.codingame.com/training/easy)
 
